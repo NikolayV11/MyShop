@@ -1,0 +1,16 @@
+{
+  "name": "01m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "navigo": "^8.11.1",
+    "parcel": "^2.9.3"
+  }
+}
